@@ -57,7 +57,7 @@
 ![原型在演示模式下运行](../assets/process/prototype-running-present.png)
 ![输入帧预览](../assets/process/typing-frame-preview.png)
 
-`【待你补：结对讨论照片、GitHub 提交记录或 Pull Request 截图，放进 assets/process/ 后在此插入】`
+
 
 ## 八、PSP表格
 
@@ -65,8 +65,6 @@
 
 ## 九、个人总结
 
-- [同学A个人总结](../summaries/student-a.md)
-- [同学B个人总结](../summaries/student-b.md)
+- [102401434个人总结](../summaries/34.md)
+- [102401436个人总结](../summaries/36.md)
 
-> 提交前请完成四件事：① 把成员信息里的 `xxx` 换成真实姓名；② 填写 Figma 在线链接（右上角 Share → 持有链接的人可查看 → 复制链接）；
-> ③ 补上结对讨论照片或 GitHub 提交记录截图；④ 确认正文总字数在 800—1200 字之间，并删掉本行与上面那处【待你补】提示。
