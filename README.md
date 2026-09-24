@@ -14,7 +14,7 @@
 ## 在线原型
 
 - 原型工具：`Figma`
-- 展示链接：[第一次结对作业]([docs/requirements.md](https://www.figma.com/design/tTIMlQHjhwiKaSm3qshgPh/Untitled?node-id=0-1&t=4UrVfGAPJ4yXsPbT-1))
+- 展示链接：[第一次结对作业](docs/requirements.md](https://www.figma.com/design/tTIMlQHjhwiKaSm3qshgPh/Untitled?node-id=0-1&t=4UrVfGAPJ4yXsPbT-1)
 
 ## 项目文档
 
