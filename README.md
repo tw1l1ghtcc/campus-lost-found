@@ -22,8 +22,8 @@
 - [用户流程](docs/flow.md)
 - [作业博客正文](docs/blog.md)
 - [PSP 表格](docs/psp.md)
-- [同学 A 个人总结](summaries/student-a.md)
-- [同学 B 个人总结](summaries/student-b.md)
+- [同学 34 个人总结](summaries/34.md)
+- [同学 36 个人总结](summaries/36.md)
 
 ## 原型页面
 
